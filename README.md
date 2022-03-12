@@ -5,5 +5,7 @@ This is a project which predicts the stock price of Tesla for a given time perio
 # Datasets
 1. https://finance.yahoo.com/
 2. https://bit.ly/36fFPI6
+# Credit
+The Spark Foundation
 
 
